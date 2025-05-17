@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.log
+
+# Sublime project/workspace files
+*.sublime-workspace
+*.sublime-project

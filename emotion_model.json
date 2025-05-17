@@ -1,0 +1,20 @@
+{
+  "emotions": {
+    "happy": {
+      "keywords": ["great", "amazing", "love", "happy", "excited", "awesome"],
+      "color": "#4ade80"
+    },
+    "sad": {
+      "keywords": ["sad", "upset", "depressed", "bad", "down", "cry"],
+      "color": "#60a5fa"
+    },
+    "angry": {
+      "keywords": ["mad", "angry", "annoyed", "furious", "hate"],
+      "color": "#f87171"
+    },
+    "neutral": {
+      "keywords": [],
+      "color": "#facc15"
+    }
+  }
+}
